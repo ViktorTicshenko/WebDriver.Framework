@@ -1,0 +1,11 @@
+{
+	"free-debian-centos-coreos-ubuntu-or-byol-bring-your-own-license" : "Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)",
+  	"n1-standard-8" : "n1-standard-8, vCPUs: 8, RAM: 30 GB",
+  	"nvidia-tesla-v100" : "NVIDIA V100",
+  	"2" : "2x375 GB",
+  	"europe-west4" : "Netherlands (europe-west4)",
+  	"europe-west3" : "Frankfurt (europe-west3)",
+	"us-east7" : "Alabama (us-east7)",
+	"1 year" : "1 year",
+	"None" : "None"
+}

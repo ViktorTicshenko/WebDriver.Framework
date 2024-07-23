@@ -1,0 +1,13 @@
+{
+	"NumOfInstances" : "1",
+	"OperatingSystem" : "free-debian-centos-coreos-ubuntu-or-byol-bring-your-own-license",
+  	"MachineFamily" : "general-purpose",
+  	"MachineSeries" : "n1",
+  	"MachineType" : "n1-standard-8",
+  	"AddGPU" : true,
+  	"GPUModel" : "nvidia-tesla-v100",
+  	"NumOfGPUs" : "1",
+  	"NumOfSSDs" : "2",
+  	"Location" : "europe-west4",
+	"CommitedUsage" : "None"
+}
